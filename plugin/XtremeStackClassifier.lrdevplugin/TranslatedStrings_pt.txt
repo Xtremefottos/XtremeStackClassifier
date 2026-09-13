@@ -1,0 +1,7 @@
+"$$$/XtremeStack/Menu/Open"="Xtreme Stack Classifier (abrir no Windows)..."
+"$$$/XtremeStack/Menu/SyncBack"="Sincronizar classificações com o catálogo"
+"$$$/XtremeStack/Menu/ConfigureExe"="Configurar executável Windows (.exe)..."
+"$$$/XtremeStack/Dialog/NoPhotosTitle"="Nenhuma foto selecionada"
+"$$$/XtremeStack/Dialog/NoPhotosMsg"="Por favor selecione fotos ou pilhas no modulo Biblioteca antes de abrir o plugin."
+"$$$/XtremeStack/Button/PickAndReject"="Escolher esta e rejeitar resto da pilha"
+"$$$/XtremeStack/Button/ExportXmp"="Exportar Sidecars .XMP"

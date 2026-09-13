@@ -1,0 +1,7 @@
+"$$$/XtremeStack/Menu/Open"="Xtreme Stack Classifier (open on Windows)..."
+"$$$/XtremeStack/Menu/SyncBack"="Sync classifications with LrC catalog"
+"$$$/XtremeStack/Menu/ConfigureExe"="Configure Windows executable (.exe)..."
+"$$$/XtremeStack/Dialog/NoPhotosTitle"="No photos selected"
+"$$$/XtremeStack/Dialog/NoPhotosMsg"="Please select photos or stacks in the Library module before opening the plugin."
+"$$$/XtremeStack/Button/PickAndReject"="Pick this photo and reject rest of stack"
+"$$$/XtremeStack/Button/ExportXmp"="Export .XMP Sidecars"

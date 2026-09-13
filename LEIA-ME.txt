@@ -1,0 +1,22 @@
+XTREME STACK CLASSIFIER — v2.4
+Studio Marclay  ·  só Lightroom Classic + programa Windows
+
+O único programa com o qual se comunica é o Lightroom Classic.
+
+MENUS (Library → Plug-in Extras)
+1. Xtreme Stack Classifier (abrir no Windows)
+   Envia as fotos para o .exe. Se estiver fechado, o Classic tenta abri-lo.
+2. Classificar no Classic — janela Lua dentro do Lightroom.
+3. Sincronizar classificações com o catálogo
+4. Configurar executável Windows (.exe)
+5. Aplicar sidecars XMP
+
+FLUXO
+1. Extraia o ZIP Windows. Duplo clique em Xtreme Stack Classifier.exe
+2. Add a pasta .lrdevplugin no Plug-in Manager.
+3. Primeira vez: Configurar executável → este .exe
+4. Selecione fotos → abrir no Windows.
+5. Classifique. Enviar para o LrC / Exportar XMP.
+6. No Classic: Sincronizar classificações.
+
+Não cria nem desfaz stacks. Não fala com outros aplicativos.
